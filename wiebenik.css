@@ -1,0 +1,36 @@
+body {
+  background-color: gray;
+  background-image: url("image/achtergrond.jpg");
+  background-size:cover;
+}
+
+p {
+  text-align;left: inherit;
+  font-size: 20px;
+  font-family: serif;
+}
+
+h1 {
+
+  outline-style: solid;
+  outline-color: inherit;
+  background: white;
+}
+
+h2{
+  outline-style: solid;
+  outline-color: invert;
+  background: red;
+}
+
+a{
+font-size: 14px
+color: black
+}
+
+img{
+  float: right;
+  margin:20px;
+
+
+}
